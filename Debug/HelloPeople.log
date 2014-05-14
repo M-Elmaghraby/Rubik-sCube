@@ -1,0 +1,17 @@
+﻿Build started 4/7/2014 1:34:04 AM.
+     1>Project "D:\Projects\Games\OpenGL\Rubik's Cube\HelloPeople\HelloPeople.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Rubik's Cube.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         HelloPeople.vcxproj -> D:\Projects\Games\OpenGL\Rubik's Cube\Debug\Rubik's Cube.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Rubik's Cube.unsuccessfulbuild".
+         Touching "Debug\Rubik's Cube.lastbuildstate".
+     1>Done Building Project "D:\Projects\Games\OpenGL\Rubik's Cube\HelloPeople\HelloPeople.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.22
